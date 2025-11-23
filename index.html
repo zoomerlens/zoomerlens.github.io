@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>ZoomerLens — Photography & Design</title>
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>ZoomerLens</h1>
+    <p class="tagline">Photography & Graphic Design — Portfolio</p>
+  </header>
+
+  <main>
+    <section id="gallery" class="gallery" aria-label="Portfolio gallery">
+      <!-- Gallery will be populated by JavaScript -->
+      <div class="loading">Loading gallery…</div>
+    </section>
+  </main>
+
+  <div id="lightbox" class="lightbox" hidden>
+    <button id="close" aria-label="Close">✕</button>
+    <img id="lightbox-img" alt="" />
+    <figcaption id="lightbox-caption"></figcaption>
+  </div>
+
+  <script src="/assets/js/lightbox.js"></script>
+</body>
+</html>
