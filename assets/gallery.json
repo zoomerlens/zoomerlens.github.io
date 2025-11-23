@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "src": "/assets/portfolio-1-Dng1_TvC.jpg",
+    "thumb": "/assets/portfolio-1-Dng1_TvC.jpg",
+    "title": "Editorial Portrait",
+    "category": "Photography",
+    "description": "A moody editorial portrait." 
+  },
+  {
+    "id": 2,
+    "src": "/assets/portfolio-2-IvDIUCH9.jpg",
+    "thumb": "/assets/portfolio-2-IvDIUCH9.jpg",
+    "title": "Brand Identity",
+    "category": "Design",
+    "description": "Logo and identity for a boutique brand." 
+  },
+  {
+    "id": 3,
+    "src": "/assets/portfolio-3-CiqthFuJ.jpg",
+    "thumb": "/assets/portfolio-3-CiqthFuJ.jpg",
+    "title": "Architectural Study",
+    "category": "Photography",
+    "description": "Study of light and form in architecture." 
+  },
+  {
+    "id": 4,
+    "src": "/assets/portfolio-4-DxHT5XR9.jpg",
+    "thumb": "/assets/portfolio-4-DxHT5XR9.jpg",
+    "title": "Product Styling",
+    "category": "Photography",
+    "description": "Styled product photography for an e-comm line." 
+  }
+]
